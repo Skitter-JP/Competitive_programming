@@ -1,1 +1,1 @@
-# Commpetive_Programming
+Commpetive Programming
