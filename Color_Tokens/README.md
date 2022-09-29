@@ -1,4 +1,4 @@
-<object data="../Color_Tokens.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="./Color_Tokens.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 [Intro.pdf](https://github.com/Skitter-JP/Competitive_programming/blob/main/Color_Tokens/Color_Tokens.pdf)
 
