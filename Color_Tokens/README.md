@@ -1,6 +1,6 @@
 <div>
-    <object data="test.pdf" type="application/pdf" width="300" height="200">
-        alt : <a href="./Color_Tokens.pdf">test.pdf</a>
+    <object data="Color_Tokens.pdf" type="application/pdf" width="300" height="200">
+        alt : <a href="./Color_Tokens.pdf">Color_Tokens.pdf</a>
     </object>
 </div>
 
