@@ -1,3 +1,9 @@
+<div>
+    <object data="test.pdf" type="application/pdf" width="300" height="200">
+        alt : <a href="./Color_Tokens.pdf">test.pdf</a>
+    </object>
+</div>
+
 [Intro.pdf](https://github.com/Skitter-JP/Competitive_programming/blob/main/Color_Tokens/Color_Tokens.pdf)
 
 
