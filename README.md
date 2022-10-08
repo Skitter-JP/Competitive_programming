@@ -1,6 +1,6 @@
 # Commpetive Programming Solutions
 
-Here I have posted all the programming problems I have solved in the following classes
+Here I have posted all the programming problems I have solved in the following classes at the Czech Techincal Univeristy.
 
 - Programming for Engineers
 - Algorithms
