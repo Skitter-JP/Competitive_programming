@@ -5,7 +5,7 @@ Here I have posted all the programming problems I have solved in the following c
 - Programming for Engineers
 - Algorithms
 
-The homeworks in these classes followed a competivie programming style and they were absolutly great.
+The homeworks in these classes followed a competivie programming style and they were absolutely great.
 
 They were marked with by following
 
