@@ -5,18 +5,18 @@ Here I have posted all the programming problems I have solved in the following c
 - Programming for Engineers
 - Algorithms
 
-The homeworks in these classes followed a competivie programming style and they were absolutely great.
+The homeworks in these classes followed a competitive programming style and they were absolutely great.
 
 They were marked with by following
 
-- Exceution Time
+- Execution Time
 - Correct Output
 
 One or two of the problems also were memory restricted.
 
-We were allowed to choose which programming lanauge to solve them in. 
+We were allowed to choose which programming language to solve them in. 
 
-I chose Python in my case and still with such an easy lanauge some of these problems were very challanging to solve.
+I chose Python in my case and still with such an easy language some of these problems were very challenging to solve.
 
 I do not own any of these problems just the solutions :)
 
