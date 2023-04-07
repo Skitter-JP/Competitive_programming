@@ -1,27 +1,23 @@
 # Competitive Programming Solutions
 
-Here I have posted all the programming problems I have solved in the following classes at the Czech Techincal Univeristy.
+In this repository, you will find programming problems that I solved in the following classes at the Czech Technical University:
 
 - Programming for Engineers
 - Algorithms
 
-The homeworks in these classes followed a competitive programming style and they were absolutely great.
+The homework assignments in these classes followed a competitive programming style and were fantastic. 
 
-They were marked with by following
+They were marked based on execution time, correct output, and memory restrictions (for one or two problems).
 
-- Execution Time
-- Correct Output
+We were allowed to choose which programming language to use for the assignments. 
+In my case, I chose Python, and even with such an easy language, some of these problems were very challenging to solve.
 
-One or two of the problems also were memory restricted.
+Each folder contains the following:
 
-We were allowed to choose which programming language to solve them in. 
-
-I chose Python in my case and still with such an easy language some of these problems were very challenging to solve.
-
-I do not own any of these problems just the solutions :)
-
-Each folder will contain the following
-
-- A brief of the problem in a .PDF file
-- The solution of the problem in main.py
+- A brief description of the problem in a .PDF file
+- The solution to the problem in main.py
 - Public data to test the code in pubdata.py
+
+I do not own any of these problems, only the solutions.
+
+Feel free to use these solutions as a reference, but please do not copy them directly for your own homework assignments.
